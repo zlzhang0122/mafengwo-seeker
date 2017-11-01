@@ -6,6 +6,6 @@
 1.实时热度展示1：
 ![image](https://github.com/zlzhang0122/mafengwo-seeker/blob/master/%E5%B1%95%E7%A4%BA%E6%95%88%E6%9E%9C1.png)
 2.实时热度排名展示1：
-![](https://github.com/zlzhang0122/mafengwo-seeker/blob/master/%E5%B1%95%E7%A4%BA%E6%95%88%E6%9E%9C2.png)
+![image](https://github.com/zlzhang0122/mafengwo-seeker/blob/master/%E5%B1%95%E7%A4%BA%E6%95%88%E6%9E%9C2.png)
 3.实时热度排名展示2：
-![](https://github.com/zlzhang0122/mafengwo-seeker/blob/master/%E5%B1%95%E7%A4%BA%E6%95%88%E6%9E%9C3.png)
+![image](https://github.com/zlzhang0122/mafengwo-seeker/blob/master/%E5%B1%95%E7%A4%BA%E6%95%88%E6%9E%9C3.png)
